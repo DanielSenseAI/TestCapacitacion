@@ -12,5 +12,5 @@ void loop() {
   // put your main code here, to run repeatedly:
   numeroEscritura = Serial.parseInt();
   funcionPrueba(multiplicacion(numeroEscritura,numeroPresentes));
-  delay(500);
+  delay(700);
 }
